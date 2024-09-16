@@ -1,0 +1,16 @@
+
+.eb-title {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 60px;
+}
+
+
+
+
+    /* Exercise Description styles */
+  .exercise-description {
+    margin-left: -70px;
+  }
+  
